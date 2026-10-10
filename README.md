@@ -1,4 +1,4 @@
-# 🐱🐶 Cats vs Dogs Classification Using SVM
+# Cats vs Dogs Classification Using SVM
 
 ## Prodigy InfoTech — Machine Learning Internship
 ### Task 03
